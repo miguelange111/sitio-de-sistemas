@@ -1,0 +1,18 @@
+.carousel-item{
+    height: 500px;
+    width: 100%;
+} 
+.carousel-item img{
+    height: 500px;
+}
+/* .carousel-control-next, .carousel-control-prev {
+    color: black;
+} */
+.carousel-indicators li{
+    background-color: black;
+}
+#certificaciones {
+    background: #f1f1f1;
+    padding: 50px 0 30px 0;
+    margin-top: 40px;
+  }
